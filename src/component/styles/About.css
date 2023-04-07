@@ -1,0 +1,6 @@
+#about ul.list-group .list-group-item {
+    border: none;
+    border-bottom: 1px solid #222;
+    border-radius: 0;
+    line-height: 30px;
+}

@@ -1,0 +1,10 @@
+#projects .card {
+    border: none;
+}
+
+#projects .card .card-header {
+    background-color: #fff;
+    border: none;
+    border-bottom: 2px solid #34b7a7;
+    text-transform: uppercase;
+}

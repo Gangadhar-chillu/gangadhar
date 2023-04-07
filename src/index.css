@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@300;400&family=Roboto&display=swap');
+*{
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  font-family: "open Sans", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
+
+#footer .shadow-lg {
+  background-color: rgba(15, 13, 13, 0.66);
+  width: 100%;
+  color: #fff;
+  backdrop-filter: blur(8px);
+}
+
+.text-title {
+  color: #34b7a7;
+}
+.bg-theme {
+  background-color: #34b7a7;
+}
